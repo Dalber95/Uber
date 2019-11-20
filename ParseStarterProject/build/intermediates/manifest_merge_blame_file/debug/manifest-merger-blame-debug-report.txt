@@ -13,7 +13,7 @@
 13    android:versionName="1.0" >
 14
 15    <uses-sdk
-16        android:minSdkVersion="9"
+16        android:minSdkVersion="14"
 16-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml
 17        android:targetSdkVersion="23" />
 17-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml
