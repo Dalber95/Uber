@@ -11,10 +11,6 @@ MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Kamil\.g
 MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2757febc0a1c6f55142e2a9ac500328a\mediarouter-v7-26.1.0\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\b28c3dfacec283a46c3ce58afd169202\appcompat-v7-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d67c0b5f1a8fd682f542b63346ec0018\play-services-awareness-12.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\6406451d1c817f4c8f90caaa15949068\play-services-places-12.0.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\07a39e81db7769f85af60844ec5fa36a\play-services-wallet-12.0.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:17:1-32:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\3dd85d1e994bf65d956ec3b7b4e31d3a\animated-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\ff85a5f3550238ae0cf6c2ade7768dab\support-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2b63348f715f0d98552f191a6a103de6\play-services-ads-12.0.1\AndroidManifest.xml:17:1-25:12
@@ -28,6 +24,7 @@ MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Kamil\.g
 MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2349831b400498037eed5ead6cfa6f41\play-services-auth-api-phone-12.0.1\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\e28289467f838fe51718d5d20c2a9e19\play-services-auth-base-12.0.1\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\04c9768dbd68ffc8474a592eabb10060\firebase-config-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d67c0b5f1a8fd682f542b63346ec0018\play-services-awareness-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\36e2907874e8bdc7118a156d3eeee58e\play-services-games-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\ad8a2d3cddb1fc06444d3f424380b794\play-services-drive-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\5c912815c9343b0d8d7d07a2448a226c\play-services-fido-12.0.1\AndroidManifest.xml:2:1-10:12
@@ -36,10 +33,13 @@ MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Kamil\.
 MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d02c7abe5c7524537b2c863804f35e51\play-services-fitness-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\44ecd7809322aeba8249a5060380e382\play-services-gcm-12.0.1\AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\8155db976832df103bdfae89fd1e3353\firebase-appindexing-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\07a39e81db7769f85af60844ec5fa36a\play-services-wallet-12.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d512162aad0a16c6196ecbd172baebd8\play-services-identity-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\5a82e3aafa1f612e19011bfdf0a58e32\play-services-iid-12.0.1\AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\80b0be557348c9dec8c69d21daec437b\play-services-instantapps-12.0.1\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\ba03a68764fbbf4b8d8ff079136eb9f2\play-services-location-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\6406451d1c817f4c8f90caaa15949068\play-services-places-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\e95612ac5b33df518bc5f5fccd6e7bf3\play-services-nearby-12.0.1\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\a8bcf24ba2707731f3db4b47df3c8869\play-services-panorama-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\c6eff0c0bd7357a57760ea81baa0bfbf\play-services-plus-12.0.1\AndroidManifest.xml:17:1-24:12
@@ -69,7 +69,6 @@ MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Kamil\.gradle
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\c09b57d019897d7ffda25f0a8ed175eb\support-core-utils-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\5db4ccce50706864284de1c007bf07c2\support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\acedb5a439482afea3702661a6a2cc74\support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d762593755d2f261a121a6bd52dbcdc8\play-services-maps-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2c4683f2f41c4ce54ee38d6c02fdb941\play-services-ads-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\de237770c7e09001f4d3c4c7def683e3\play-services-ads-lite-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\12e78753c8dcf1afb90708089163ce83\play-services-analytics-license-12.0.1\AndroidManifest.xml:17:1-24:12
@@ -104,6 +103,7 @@ MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Us
 MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\defadc1b76b1e05e7109543d5b0b4e15\play-services-iid-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\6dc5e21b758c6c172412710f5feb6f7c\play-services-instantapps-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\969b875c0cffd10bbf919874ebffed15\play-services-location-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d762593755d2f261a121a6bd52dbcdc8\play-services-maps-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\989e691fed8ca0f1dffa873aabbf4e81\firebase-analytics-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\f3de3d258fe1c4f7c935bb55d08c3209\firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2090a81a69a5c2534f2f9c6070b125d2\play-services-nearby-license-12.0.1\AndroidManifest.xml:17:1-24:12
@@ -143,8 +143,6 @@ ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManif
 		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:10:22-76
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\b368f4c87db39482e4e6ef8e9eff4105\play-services-ads-lite-12.0.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\b368f4c87db39482e4e6ef8e9eff4105\play-services-ads-lite-12.0.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\90838eff36be557bc79af88c840e2205\play-services-analytics-12.0.1\AndroidManifest.xml:23:5-67
@@ -157,6 +155,8 @@ MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Kamil\.gr
 MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\44ecd7809322aeba8249a5060380e382\play-services-gcm-12.0.1\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\5a82e3aafa1f612e19011bfdf0a58e32\play-services-iid-12.0.1\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\5a82e3aafa1f612e19011bfdf0a58e32\play-services-iid-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:24:5-67
 MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\dccdd9d1728f30301b9b7f28c4b66161\firebase-crash-12.0.1\AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\dccdd9d1728f30301b9b7f28c4b66161\firebase-crash-12.0.1\AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\162f8cc5d95445b2bdbc2a04dc351377\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:23:5-67
@@ -171,14 +171,14 @@ MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Kamil\.gradle\cac
 		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:11:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:12:5-79
-MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\b368f4c87db39482e4e6ef8e9eff4105\play-services-ads-lite-12.0.1\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\b368f4c87db39482e4e6ef8e9eff4105\play-services-ads-lite-12.0.1\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\90838eff36be557bc79af88c840e2205\play-services-analytics-12.0.1\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\90838eff36be557bc79af88c840e2205\play-services-analytics-12.0.1\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\66986f11ee5e330d9f98ce80b2bec181\play-services-analytics-impl-12.0.1\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\66986f11ee5e330d9f98ce80b2bec181\play-services-analytics-impl-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\e95612ac5b33df518bc5f5fccd6e7bf3\play-services-nearby-12.0.1\AndroidManifest.xml:7:5-79
 MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\e95612ac5b33df518bc5f5fccd6e7bf3\play-services-nearby-12.0.1\AndroidManifest.xml:7:5-79
 MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\162f8cc5d95445b2bdbc2a04dc351377\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:24:5-79
@@ -209,12 +209,6 @@ MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Kamil\.gradle\cac
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\b28c3dfacec283a46c3ce58afd169202\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d67c0b5f1a8fd682f542b63346ec0018\play-services-awareness-12.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d67c0b5f1a8fd682f542b63346ec0018\play-services-awareness-12.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\6406451d1c817f4c8f90caaa15949068\play-services-places-12.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\6406451d1c817f4c8f90caaa15949068\play-services-places-12.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:30:5-20
-MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:30:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\3dd85d1e994bf65d956ec3b7b4e31d3a\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\3dd85d1e994bf65d956ec3b7b4e31d3a\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\ff85a5f3550238ae0cf6c2ade7768dab\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
@@ -233,6 +227,8 @@ MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Kamil\.g
 MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\633f250918fce68504b70c9d7ff9c643\play-services-auth-12.0.1\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\04c9768dbd68ffc8474a592eabb10060\firebase-config-12.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\04c9768dbd68ffc8474a592eabb10060\firebase-config-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d67c0b5f1a8fd682f542b63346ec0018\play-services-awareness-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d67c0b5f1a8fd682f542b63346ec0018\play-services-awareness-12.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\36e2907874e8bdc7118a156d3eeee58e\play-services-games-12.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\36e2907874e8bdc7118a156d3eeee58e\play-services-games-12.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\ad8a2d3cddb1fc06444d3f424380b794\play-services-drive-12.0.1\AndroidManifest.xml:22:5-20
@@ -255,6 +251,10 @@ MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Kamil\.gr
 MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\5a82e3aafa1f612e19011bfdf0a58e32\play-services-iid-12.0.1\AndroidManifest.xml:26:5-20
 MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\ba03a68764fbbf4b8d8ff079136eb9f2\play-services-location-12.0.1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\ba03a68764fbbf4b8d8ff079136eb9f2\play-services-location-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\6406451d1c817f4c8f90caaa15949068\play-services-places-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\6406451d1c817f4c8f90caaa15949068\play-services-places-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\e95612ac5b33df518bc5f5fccd6e7bf3\play-services-nearby-12.0.1\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\e95612ac5b33df518bc5f5fccd6e7bf3\play-services-nearby-12.0.1\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\a8bcf24ba2707731f3db4b47df3c8869\play-services-panorama-12.0.1\AndroidManifest.xml:22:5-20
@@ -305,8 +305,6 @@ MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Kamil\.gradle\
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\5db4ccce50706864284de1c007bf07c2\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\acedb5a439482afea3702661a6a2cc74\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\acedb5a439482afea3702661a6a2cc74\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
-MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d762593755d2f261a121a6bd52dbcdc8\play-services-maps-license-12.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d762593755d2f261a121a6bd52dbcdc8\play-services-maps-license-12.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2c4683f2f41c4ce54ee38d6c02fdb941\play-services-ads-license-12.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2c4683f2f41c4ce54ee38d6c02fdb941\play-services-ads-license-12.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\de237770c7e09001f4d3c4c7def683e3\play-services-ads-lite-license-12.0.1\AndroidManifest.xml:22:5-20
@@ -375,6 +373,8 @@ MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:
 MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\6dc5e21b758c6c172412710f5feb6f7c\play-services-instantapps-license-12.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\969b875c0cffd10bbf919874ebffed15\play-services-location-license-12.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\969b875c0cffd10bbf919874ebffed15\play-services-location-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d762593755d2f261a121a6bd52dbcdc8\play-services-maps-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d762593755d2f261a121a6bd52dbcdc8\play-services-maps-license-12.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\989e691fed8ca0f1dffa873aabbf4e81\firebase-analytics-license-12.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\989e691fed8ca0f1dffa873aabbf4e81\firebase-analytics-license-12.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\f3de3d258fe1c4f7c935bb55d08c3209\firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:22:5-20
@@ -467,14 +467,6 @@ MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Kamil\.gradle\cac
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\b28c3dfacec283a46c3ce58afd169202\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d67c0b5f1a8fd682f542b63346ec0018\play-services-awareness-12.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d67c0b5f1a8fd682f542b63346ec0018\play-services-awareness-12.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\6406451d1c817f4c8f90caaa15949068\play-services-places-12.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\6406451d1c817f4c8f90caaa15949068\play-services-places-12.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\07a39e81db7769f85af60844ec5fa36a\play-services-wallet-12.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\07a39e81db7769f85af60844ec5fa36a\play-services-wallet-12.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\3dd85d1e994bf65d956ec3b7b4e31d3a\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\3dd85d1e994bf65d956ec3b7b4e31d3a\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\ff85a5f3550238ae0cf6c2ade7768dab\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
@@ -501,6 +493,8 @@ MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Kam
 MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\e28289467f838fe51718d5d20c2a9e19\play-services-auth-base-12.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\04c9768dbd68ffc8474a592eabb10060\firebase-config-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\04c9768dbd68ffc8474a592eabb10060\firebase-config-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d67c0b5f1a8fd682f542b63346ec0018\play-services-awareness-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d67c0b5f1a8fd682f542b63346ec0018\play-services-awareness-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\36e2907874e8bdc7118a156d3eeee58e\play-services-games-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\36e2907874e8bdc7118a156d3eeee58e\play-services-games-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\ad8a2d3cddb1fc06444d3f424380b794\play-services-drive-12.0.1\AndroidManifest.xml:20:5-44
@@ -517,6 +511,8 @@ MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Kamil\.gr
 MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\44ecd7809322aeba8249a5060380e382\play-services-gcm-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\8155db976832df103bdfae89fd1e3353\firebase-appindexing-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\8155db976832df103bdfae89fd1e3353\firebase-appindexing-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\07a39e81db7769f85af60844ec5fa36a\play-services-wallet-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\07a39e81db7769f85af60844ec5fa36a\play-services-wallet-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d512162aad0a16c6196ecbd172baebd8\play-services-identity-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d512162aad0a16c6196ecbd172baebd8\play-services-identity-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\5a82e3aafa1f612e19011bfdf0a58e32\play-services-iid-12.0.1\AndroidManifest.xml:20:5-44
@@ -525,6 +521,10 @@ MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\K
 MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\80b0be557348c9dec8c69d21daec437b\play-services-instantapps-12.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\ba03a68764fbbf4b8d8ff079136eb9f2\play-services-location-12.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\ba03a68764fbbf4b8d8ff079136eb9f2\play-services-location-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\6406451d1c817f4c8f90caaa15949068\play-services-places-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\6406451d1c817f4c8f90caaa15949068\play-services-places-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\e95612ac5b33df518bc5f5fccd6e7bf3\play-services-nearby-12.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\e95612ac5b33df518bc5f5fccd6e7bf3\play-services-nearby-12.0.1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\a8bcf24ba2707731f3db4b47df3c8869\play-services-panorama-12.0.1\AndroidManifest.xml:20:5-44
@@ -583,8 +583,6 @@ MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Kamil\.gradle\
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\5db4ccce50706864284de1c007bf07c2\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\acedb5a439482afea3702661a6a2cc74\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\acedb5a439482afea3702661a6a2cc74\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d762593755d2f261a121a6bd52dbcdc8\play-services-maps-license-12.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d762593755d2f261a121a6bd52dbcdc8\play-services-maps-license-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2c4683f2f41c4ce54ee38d6c02fdb941\play-services-ads-license-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2c4683f2f41c4ce54ee38d6c02fdb941\play-services-ads-license-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\de237770c7e09001f4d3c4c7def683e3\play-services-ads-lite-license-12.0.1\AndroidManifest.xml:20:5-44
@@ -653,6 +651,8 @@ MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:
 MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\6dc5e21b758c6c172412710f5feb6f7c\play-services-instantapps-license-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\969b875c0cffd10bbf919874ebffed15\play-services-location-license-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\969b875c0cffd10bbf919874ebffed15\play-services-location-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d762593755d2f261a121a6bd52dbcdc8\play-services-maps-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d762593755d2f261a121a6bd52dbcdc8\play-services-maps-license-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\989e691fed8ca0f1dffa873aabbf4e81\firebase-analytics-license-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\989e691fed8ca0f1dffa873aabbf4e81\firebase-analytics-license-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\f3de3d258fe1c4f7c935bb55d08c3209\firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:20:5-44
@@ -735,12 +735,6 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Kamil\.gradle\c
 		ADDED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2757febc0a1c6f55142e2a9ac500328a\mediarouter-v7-26.1.0\AndroidManifest.xml:25:13-35
 	android:name
 		ADDED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2757febc0a1c6f55142e2a9ac500328a\mediarouter-v7-26.1.0\AndroidManifest.xml:24:13-51
-uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:26:5-28:35
-	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:27:9-41
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:28:9-32
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\b368f4c87db39482e4e6ef8e9eff4105\play-services-ads-lite-12.0.1\AndroidManifest.xml:29:9-33:64
 	android:exported
@@ -847,6 +841,12 @@ MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Kamil\.gradle\cac
 MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\a7ca90a41e40350e3a4f6d717f855608\firebase-iid-12.0.1\AndroidManifest.xml:26:5-82
 	android:name
 		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\44ecd7809322aeba8249a5060380e382\play-services-gcm-12.0.1\AndroidManifest.xml:23:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\477bfe274747149e8e61d2ceda223638\play-services-maps-12.0.1\AndroidManifest.xml:28:9-32
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\ff2facc11095cc250070125cb103eaba\play-services-base-12.0.1\AndroidManifest.xml:23:9-26:75
 	android:exported

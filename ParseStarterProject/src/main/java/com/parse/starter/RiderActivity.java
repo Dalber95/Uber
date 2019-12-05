@@ -12,6 +12,8 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
+import android.util.Log;
+import android.view.View;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
@@ -25,6 +27,10 @@ public class RiderActivity extends FragmentActivity implements OnMapReadyCallbac
     GoogleMap mMap;
     LocationManager locationManager;
     LocationListener locationListener;
+
+    public void callUber(View view) {
+        Log.i("Info", "Call Uber");
+    }
 
     @Override
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
