@@ -1,5 +1,6 @@
 package com.parse.starter;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -15,6 +16,13 @@ import com.parse.ParseUser;
 
 public class MainActivity extends AppCompatActivity {
 
+    public void redirectActivity() {
+        if (ParseUser.getCurrentUser().get("riderOrDriver") == "rider") {
+            Intent intent = new Intent(getApplicationContext(), RiderActivity.class);
+            startActivity(intent);
+        }
+    }
+
     public void getStarted(View view) {
         Switch userTypeSwitch = (Switch) findViewById(R.id.userTypeSwitch);
 
@@ -28,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
         ParseUser.getCurrentUser().put("riderOrDriver", userType);
         Log.i("Info", "Redirecting as " + userType);
+        redirectActivity();
     }
 
     @Override
@@ -51,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
         } else {
             if (ParseUser.getCurrentUser().get("riderOrDriver") != null) {
                 Log.i("Info", "Redirecting as " + ParseUser.getCurrentUser().get("riderOrDriver"));
+                redirectActivity();
             }
         }
 
