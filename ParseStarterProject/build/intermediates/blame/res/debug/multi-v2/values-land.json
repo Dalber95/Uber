@@ -4,17 +4,7 @@
             "outputFile": "C:\\Users\\Kamil\\Desktop\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kamil\\.gradle\\caches\\transforms-2\\files-2.1\\b28c3dfacec283a46c3ce58afd169202\\appcompat-v7-26.1.0\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Kamil\\.gradle\\caches\\transforms-2\\files-2.1\\2757febc0a1c6f55142e2a9ac500328a\\mediarouter-v7-26.1.0\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Kamil\\.gradle\\caches\\transforms-2\\files-2.1\\7804fdd88cb835f246b01d17df0377c8\\mediarouter-v7-26.1.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -31,7 +21,17 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Kamil\\.gradle\\caches\\transforms-2\\files-2.1\\66c19043e02c768663552ef78048dd35\\play-services-cast-framework-12.0.1\\res\\values-land\\values.xml",
+                    "source": "C:\\Users\\Kamil\\.gradle\\caches\\transforms-2\\files-2.1\\3c115bd9f6556a7430ab54a2645aa55d\\appcompat-v7-26.1.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kamil\\.gradle\\caches\\transforms-2\\files-2.1\\631731819abda758889758121904bbdd\\play-services-cast-framework-12.0.1\\res\\values-land\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9",
                         "startColumns": "0,0,0,0,0,0",
