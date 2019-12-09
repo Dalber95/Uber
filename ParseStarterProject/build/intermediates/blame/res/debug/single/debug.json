@@ -860,6 +860,10 @@
         "source": "C:\\Users\\Kamil\\.gradle\\caches\\transforms-2\\files-2.1\\3c115bd9f6556a7430ab54a2645aa55d\\appcompat-v7-26.1.0\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Kamil\\Desktop\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_requests.xml.flat",
+        "source": "C:\\Users\\Kamil\\Desktop\\Uber\\ParseStarterProject\\src\\main\\res\\layout\\activity_view_requests.xml"
+    },
+    {
         "merged": "C:\\Users\\Kamil\\Desktop\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_cast_connected_white_24.png.flat",
         "source": "C:\\Users\\Kamil\\.gradle\\caches\\transforms-2\\files-2.1\\631731819abda758889758121904bbdd\\play-services-cast-framework-12.0.1\\res\\drawable-xxxhdpi-v4\\quantum_ic_cast_connected_white_24.png"
     },
