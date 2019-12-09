@@ -1,2 +1,2 @@
-# Referenced at C:\Users\Kamil\Desktop\Uber\ParseStarterProject\build\intermediates\merged_manifests\debug\AndroidManifest.xml:34
+# Referenced at C:\Users\Kamil\Desktop\Uber\ParseStarterProject\build\intermediates\merged_manifests\debug\AndroidManifest.xml:35
 -keep class com.parse.starter.StarterApplication { <init>(); }

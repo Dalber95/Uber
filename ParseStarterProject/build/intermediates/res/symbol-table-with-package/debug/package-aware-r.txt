@@ -1491,6 +1491,7 @@ layout abc_screen_toolbar
 layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
+layout activity_driver_location
 layout activity_main
 layout activity_rider
 layout activity_view_requests

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-48:12
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
 MERGED from [com.android.support:multidex:1.0.3] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\ffa76deb897e0a03a1ff3189786ae724\multidex-1.0.3\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d8dd8fca498cbd93c2930b14cce1aadb\play-services-12.0.1\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\631731819abda758889758121904bbdd\play-services-cast-framework-12.0.1\AndroidManifest.xml:2:1-14:12
@@ -120,29 +120,29 @@ MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\User
 MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\cb9a519806b997fd36def7aab3ab3682\play-services-wallet-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\a78775db41edda5ad83749397b9e2847\play-services-wearable-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\cbd00f137ffe055a54edb27e1642d0f7\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
 	package
 		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-48:12
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
 		INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-48:12
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
 		INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:9:5-79
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:9:22-76
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:10:22-76
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:10:5-67
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2450bafac107baf7051f4a04e23265b5\play-services-ads-lite-12.0.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2450bafac107baf7051f4a04e23265b5\play-services-ads-lite-12.0.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\653abfd96342298064fa5d191584afc5\play-services-analytics-12.0.1\AndroidManifest.xml:23:5-67
@@ -168,9 +168,9 @@ MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Kamil\
 MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\3f7bc67d767507bb203efd53b2a01b68\firebase-iid-12.0.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\3f7bc67d767507bb203efd53b2a01b68\firebase-iid-12.0.1\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:10:22-64
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:11:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:11:5-79
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:12:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2450bafac107baf7051f4a04e23265b5\play-services-ads-lite-12.0.1\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\2450bafac107baf7051f4a04e23265b5\play-services-ads-lite-12.0.1\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\653abfd96342298064fa5d191584afc5\play-services-analytics-12.0.1\AndroidManifest.xml:24:5-79
@@ -190,13 +190,13 @@ MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Kamil\
 MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\3f7bc67d767507bb203efd53b2a01b68\firebase-iid-12.0.1\AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\3f7bc67d767507bb203efd53b2a01b68\firebase-iid-12.0.1\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:11:22-76
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:12:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:12:5-80
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:13:5-80
 	android:name
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:12:22-77
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:13:22-77
 application
-ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:14:5-46:19
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:15:5-51:19
 MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d8dd8fca498cbd93c2930b14cce1aadb\play-services-12.0.1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\d8dd8fca498cbd93c2930b14cce1aadb\play-services-12.0.1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\631731819abda758889758121904bbdd\play-services-cast-framework-12.0.1\AndroidManifest.xml:7:5-12:19
@@ -408,51 +408,57 @@ MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Us
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\cbd00f137ffe055a54edb27e1642d0f7\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\cbd00f137ffe055a54edb27e1642d0f7\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
 	android:label
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:18:9-41
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:19:9-41
 	android:icon
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:17:9-43
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:18:9-43
 	android:allowBackup
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:17:9-35
 	android:theme
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:19:9-40
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:20:9-40
 	android:name
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:15:9-43
-activity#com.parse.starter.ViewRequestsActivity
-ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:20:9-67
-	android:name
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:20:19-55
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:16:9-43
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:29:9-31:55
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:30:9-32:55
 	android:value
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:31:13-52
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:32:13-52
 	android:name
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:30:13-58
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:31:13-58
+activity#com.parse.starter.DriverLocationActivity
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:34:9-36:79
+	android:label
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:36:13-67
+	android:name
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:35:13-51
+activity#com.parse.starter.ViewRequestsActivity
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:37:9-58
+	android:name
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:37:19-55
 activity#com.parse.starter.RiderActivity
-ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:33:9-35:60
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:38:9-40:60
 	android:label
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:35:13-57
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:40:13-57
 	android:name
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:34:13-42
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:39:13-42
 activity#com.parse.starter.MainActivity
-ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:36:9-45:20
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:41:9-50:20
 	android:label
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:38:13-45
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:43:13-45
 	android:name
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:37:13-41
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:42:13-41
 intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:39:13-44:29
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:44:13-49:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:40:17-69
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:45:17-69
 	android:name
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:40:25-66
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:45:25-66
 action#android.intent.action.VIEW
-ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:41:17-69
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:46:17-69
 	android:name
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:41:25-66
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:46:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:43:17-77
+ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:48:17-77
 	android:name
-		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:43:27-74
+		ADDED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:48:27-74
 uses-sdk
 INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml

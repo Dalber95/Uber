@@ -2,6 +2,7 @@ package com.parse.starter;
 
 import android.Manifest;
 import android.content.Context;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Location;
 import android.location.LocationListener;
@@ -12,6 +13,8 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
@@ -29,14 +32,14 @@ public class ViewRequestsActivity extends AppCompatActivity {
     ListView requestListView;
     ArrayAdapter<String> arrayAdapter;
     ArrayList<String> requests = new ArrayList<>();
+    ArrayList<Double> requestLatitudes = new ArrayList<>();
+    ArrayList<Double> requestLongitudes = new ArrayList<>();
 
     LocationManager locationManager;
     LocationListener locationListener;
 
     public void updateListView(Location location) {
         if (location != null) {
-            requests.clear();
-
             ParseQuery<ParseObject> query = new ParseQuery<>("Request");
             final ParseGeoPoint geoPointLocation = new ParseGeoPoint(location.getLatitude(), location.getLongitude());
 
@@ -46,11 +49,22 @@ public class ViewRequestsActivity extends AppCompatActivity {
                 @Override
                 public void done(List<ParseObject> objects, ParseException e) {
                     if (e == null) {
+                        requests.clear();
+                        requestLongitudes.clear();
+                        requestLatitudes.clear();
+
                         if (objects.size() > 0) {
                             for (ParseObject object : objects) {
-                                Double distanceInKilometers = geoPointLocation.distanceInKilometersTo((ParseGeoPoint) object.get("location"));
-                                Double distanceOneDP = (double) Math.round(distanceInKilometers * 10) / 10;
-                                requests.add(distanceOneDP.toString() + " kilometers");
+                                ParseGeoPoint requestLocation = (ParseGeoPoint) object.get("location");
+
+                                if (requestLocation != null) {
+                                    double distanceInKilometers = geoPointLocation.distanceInKilometersTo(requestLocation);
+                                    double distanceOneDP = (double) Math.round(distanceInKilometers * 10) / 10;
+                                    requests.add(distanceOneDP + " kilometers");
+
+                                    requestLatitudes.add(requestLocation.getLatitude());
+                                    requestLongitudes.add(requestLocation.getLongitude());
+                                }
                             }
                         } else {
                             requests.add("No active requests nearby");
@@ -92,6 +106,26 @@ public class ViewRequestsActivity extends AppCompatActivity {
         requests.add("Getting nearby requests...");
 
         requestListView.setAdapter(arrayAdapter);
+
+        requestListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                if (Build.VERSION.SDK_INT < 23 || ContextCompat.checkSelfPermission(ViewRequestsActivity.this, Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED) {
+                    Location lastKnownLocation = locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
+
+                    if (requestLatitudes.size() > position && requestLongitudes.size() > position && lastKnownLocation != null) {
+                        Intent intent = new Intent(getApplicationContext(), DriverLocationActivity.class);
+
+                        intent.putExtra("requestLatitude", requestLatitudes.get(position));
+                        intent.putExtra("requestLongitudes", requestLongitudes.get(position));
+                        intent.putExtra("driverLatitude", lastKnownLocation.getLatitude());
+                        intent.putExtra("driverLongitude", lastKnownLocation.getLongitude());
+
+                        startActivity(intent);
+                    }
+                }
+            }
+        });
 
         locationManager = (LocationManager) this.getSystemService(Context.LOCATION_SERVICE);
         locationListener = new LocationListener() {
