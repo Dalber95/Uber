@@ -31,9 +31,11 @@ public class ViewRequestsActivity extends AppCompatActivity {
 
     ListView requestListView;
     ArrayAdapter<String> arrayAdapter;
+
     ArrayList<String> requests = new ArrayList<>();
     ArrayList<Double> requestLatitudes = new ArrayList<>();
     ArrayList<Double> requestLongitudes = new ArrayList<>();
+    ArrayList<String> usernames = new ArrayList<>();
 
     LocationManager locationManager;
     LocationListener locationListener;
@@ -44,6 +46,7 @@ public class ViewRequestsActivity extends AppCompatActivity {
             final ParseGeoPoint geoPointLocation = new ParseGeoPoint(location.getLatitude(), location.getLongitude());
 
             query.whereNear("location", geoPointLocation);
+            query.whereDoesNotExist("driverUsername");
             query.setLimit(10);
             query.findInBackground(new FindCallback<ParseObject>() {
                 @Override
@@ -64,6 +67,7 @@ public class ViewRequestsActivity extends AppCompatActivity {
 
                                     requestLatitudes.add(requestLocation.getLatitude());
                                     requestLongitudes.add(requestLocation.getLongitude());
+                                    usernames.add(object.getString("username"));
                                 }
                             }
                         } else {
@@ -113,13 +117,14 @@ public class ViewRequestsActivity extends AppCompatActivity {
                 if (Build.VERSION.SDK_INT < 23 || ContextCompat.checkSelfPermission(ViewRequestsActivity.this, Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED) {
                     Location lastKnownLocation = locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
 
-                    if (requestLatitudes.size() > position && requestLongitudes.size() > position && lastKnownLocation != null) {
+                    if (requestLatitudes.size() > position && requestLongitudes.size() > position && usernames.size() > position && lastKnownLocation != null) {
                         Intent intent = new Intent(getApplicationContext(), DriverLocationActivity.class);
 
                         intent.putExtra("requestLatitude", requestLatitudes.get(position));
-                        intent.putExtra("requestLongitudes", requestLongitudes.get(position));
+                        intent.putExtra("requestLongitude", requestLongitudes.get(position));
                         intent.putExtra("driverLatitude", lastKnownLocation.getLatitude());
                         intent.putExtra("driverLongitude", lastKnownLocation.getLongitude());
+                        intent.putExtra("username", usernames.get(position));
 
                         startActivity(intent);
                     }

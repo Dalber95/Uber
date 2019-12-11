@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Kamil\\Desktop\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "C:\\Users\\Kamil\\Desktop\\Android_Kurs\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kamil\\.gradle\\caches\\transforms-2\\files-2.1\\729b1a76da86d73b8bcc8764e71131e8\\play-services-appinvite-12.0.1\\res\\values-v11\\values.xml",

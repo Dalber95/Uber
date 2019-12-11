@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Kamil\\Desktop\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "C:\\Users\\Kamil\\Desktop\\Android_Kurs\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Kamil\\Desktop\\Uber\\ParseStarterProject\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "C:\\Users\\Kamil\\Desktop\\Android_Kurs\\Uber\\ParseStarterProject\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "12",
                         "startColumns": "4",

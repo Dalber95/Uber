@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="14"
-8-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+8-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="23" />
-9-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+9-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml
 10
 11    <!--
 12         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
@@ -16,17 +16,17 @@
 14         location permissions for the 'MyLocation' functionality.
 15    -->
 16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:10:5-79
-16-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:10:22-76
+16-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:10:5-79
+16-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:10:22-76
 17    <uses-permission android:name="android.permission.INTERNET" />
-17-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:11:5-67
-17-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:11:22-64
+17-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:11:5-67
+17-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:11:22-64
 18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-18-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:12:5-79
-18-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:12:22-76
+18-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:12:5-79
+18-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:12:22-76
 19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-19-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:13:5-80
-19-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:13:22-77
+19-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:13:5-80
+19-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:13:22-77
 20
 21    <!-- Optional permission for Analytics to run. -->
 22    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create GCM registration tokens -->
@@ -55,19 +55,19 @@
 33-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\3f7bc67d767507bb203efd53b2a01b68\firebase-iid-12.0.1\AndroidManifest.xml:32:22-76
 34
 35    <application
-35-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:15:5-51:19
+35-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:15:5-51:19
 36        android:name="com.parse.starter.StarterApplication"
-36-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:16:9-43
+36-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:16:9-43
 37        android:allowBackup="true"
-37-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:17:9-35
+37-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:17:9-35
 38        android:debuggable="true"
 39        android:icon="@mipmap/ic_launcher"
-39-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:18:9-43
+39-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:18:9-43
 40        android:label="@string/app_name"
-40-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:19:9-41
+40-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:19:9-41
 41        android:testOnly="true"
 42        android:theme="@style/AppTheme" >
-42-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:20:9-40
+42-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:20:9-40
 43
 44        <!--
 45             The API key for Google Maps-based APIs is defined as a string resource.
@@ -78,45 +78,45 @@
 50             You can define the keys for the debug and release targets in src/debug/ and src/release/.
 51        -->
 52        <meta-data
-52-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:30:9-32:55
+52-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:30:9-32:55
 53            android:name="com.google.android.geo.API_KEY"
-53-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:31:13-58
+53-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:31:13-58
 54            android:value="@string/google_maps_key" />
-54-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:32:13-52
+54-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:32:13-52
 55
 56        <activity
-56-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:34:9-36:79
+56-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:34:9-36:79
 57            android:name="com.parse.starter.DriverLocationActivity"
-57-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:35:13-51
+57-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:35:13-51
 58            android:label="@string/title_activity_driver_location" />
-58-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:36:13-67
+58-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:36:13-67
 59        <activity android:name="com.parse.starter.ViewRequestsActivity" />
-59-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:37:9-58
-59-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:37:19-55
+59-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:37:9-58
+59-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:37:19-55
 60        <activity
-60-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:38:9-40:60
+60-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:38:9-40:60
 61            android:name="com.parse.starter.RiderActivity"
-61-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:39:13-42
+61-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:39:13-42
 62            android:label="@string/title_activity_rider" />
-62-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:40:13-57
+62-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:40:13-57
 63        <activity
-63-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:41:9-50:20
+63-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:41:9-50:20
 64            android:name="com.parse.starter.MainActivity"
-64-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:42:13-41
+64-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:42:13-41
 65            android:label="@string/app_name" >
-65-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:43:13-45
+65-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:43:13-45
 66            <intent-filter>
-66-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:44:13-49:29
+66-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:44:13-49:29
 67                <action android:name="android.intent.action.MAIN" />
-67-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:45:17-69
-67-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:45:25-66
+67-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:45:17-69
+67-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:45:25-66
 68                <action android:name="android.intent.action.VIEW" />
-68-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:46:17-69
-68-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:46:25-66
+68-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:46:17-69
+68-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:46:25-66
 69
 70                <category android:name="android.intent.category.LAUNCHER" />
-70-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:48:17-77
-70-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:48:27-74
+70-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:48:17-77
+70-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:48:27-74
 71            </intent-filter>
 72        </activity>
 73
@@ -283,8 +283,8 @@
 160-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\b83afce781a0881eeccacb0856731f18\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:37:23-69
 161
 162                <action android:name="android.intent.action.VIEW" />
-162-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:46:17-69
-162-->C:\Users\Kamil\Desktop\Uber\ParseStarterProject\src\main\AndroidManifest.xml:46:25-66
+162-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:46:17-69
+162-->C:\Users\Kamil\Desktop\Android_Kurs\Uber\ParseStarterProject\src\main\AndroidManifest.xml:46:25-66
 163
 164                <category android:name="android.intent.category.DEFAULT" />
 164-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Kamil\.gradle\caches\transforms-2\files-2.1\729b1a76da86d73b8bcc8764e71131e8\play-services-appinvite-12.0.1\AndroidManifest.xml:32:17-76

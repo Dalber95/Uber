@@ -1165,6 +1165,7 @@ id FUNCTION
 id META
 id SHIFT
 id SYM
+id acceptRequestButton
 id action0
 id action_bar
 id action_bar_activity_content
@@ -1315,6 +1316,7 @@ id loading_indicator
 id logo_only
 id logoutButton
 id map
+id mapConstraintLayout
 id match_global_nicknames
 id match_parent
 id material
